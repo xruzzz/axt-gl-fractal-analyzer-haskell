@@ -33,7 +33,7 @@ main = do
     (_progName, _args) <- getArgsAndInitialize
     initialDisplayMode $= [WithDepthBuffer, DoubleBuffered]
     initialWindowSize $= Size width height
-    createWindow "Tree - www.axi.su - xruzzzz@gmail.com"
+    createWindow "AXT GL Fractals - www.axi.su - xruzzzz@gmail.com"
     now <- getTimestamp
 {-    state <- newIORef State { deltaX = 0, deltaY = 0, moveSpeed = 0.5
                           , angle = 0.0, rotateSpeed = 0.2

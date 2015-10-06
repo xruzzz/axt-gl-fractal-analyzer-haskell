@@ -1,0 +1,13 @@
+flags: {}
+packages:
+- '.'
+- ../ax-fp-gl-haskell
+- ../ax-fp-fractals-haskell
+extra-deps:
+- GLUT-2.7.0.1
+- GLURaw-1.5.0.1
+- OpenGL-2.12.0.1
+- OpenGLRaw-2.4.1.0
+- ObjectName-1.1.0.0
+- unicode-prelude-0.1.1
+resolver: lts-3.7
