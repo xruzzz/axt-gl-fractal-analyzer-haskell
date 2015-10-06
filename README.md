@@ -1,2 +1,3 @@
 # axt-gl-fractals-haskell
-Fractals
+AXT GL Fractals
+docs/description-ru
